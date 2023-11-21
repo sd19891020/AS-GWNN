@@ -1,6 +1,6 @@
-# AS-GWNN
+# GWNN
 
-Adaptive Scale Geographically Weighted Neural Network (AS-GWNN).
+Geographically Weighted Neural Network (GWNN).
 
 Research scholars or peers can contact me via email (13255308834@163.com) for any data processing requests.
 
