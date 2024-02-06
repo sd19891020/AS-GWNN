@@ -1,6 +1,6 @@
-# GWNN
+# VAGWNN
 
-Geographically Weighted Neural Network (GWNN).
+Virtual Artificial Geographically Weighted Neural Network (GWNN).
 
 Research scholars or peers can contact me via email (13255308834@163.com) for any data processing requests.
 
