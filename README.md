@@ -1,5 +1,5 @@
 # VAGWNN
 
-Virtual Artificial Geographically Weighted Neural Network (VAGWNN).
+Flexible Geographically Weighted Neural Network (FGWNN).
 
 
